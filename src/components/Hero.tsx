@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
               Hi, I'm <span className="text-indigo-600">Luthfi Nassir</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-6">
-              a data-driven tech enthusiast blending analytics, strategy, and design. From dashboards to marketing campaigns, I turn data into action.
+              A Data-Driven Tech Enthusiast blending analytics, strategy, and design. From dashboards to marketing campaigns, I turn data into action.
             </p>
             <h6 className="text-xl md:text-3xl lg:text-4xl font-bold text-gray-800 mb-4 tracking-[0.2em]">
               Always curious.
